@@ -18,3 +18,4 @@ public:
         return left;
     }
 };
+//Binary search O(log(n))
